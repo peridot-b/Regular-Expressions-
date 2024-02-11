@@ -1,0 +1,17 @@
+
+ 
+
+
+//const masterCardPattern = /^(5[1-5]\d{14})$/;
+
+//const visaPattern = /^(4\d{12}(\d{3})?)$/;
+
+//if (masterCardPattern.test(cardNumber)) {
+//return "MasterCard";
+//} else if (visaPattern.test(cardNumber)) {
+//return "Visa";
+//} else {
+//return "Invalid card number";
+//}
+//}
+    
